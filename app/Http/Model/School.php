@@ -14,14 +14,9 @@ class School extends Model
         'name',
         'name_en',
         'picture',
-        'pictures',
         'phone',
         'email',
-        'province_id',
-        'city_id',
         'address',
-        'address_en',
-        'map_point',
         'description',
         'status'
     ];
